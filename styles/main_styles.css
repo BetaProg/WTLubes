@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body {
+	font-family:Open Sans;
+	margin:0px;
+	border:0px;
+}
+.main_content{
+	width:100%;
+	height:100%;
+	background-color:#ddd;
+}
+.top_content{
+	height:10%;
+	width:100%;
+	background-color:#f2f2f2;
+}
+.nav_bar{
+	height:100%;
+	width:100%;
+}
+.title_and_logo{
+	width:50%;
+	height:100%;
+	float:left;
+}
+.title_and_logo img{
+	width:100px;
+	height:inherit;
+	float:left;
+}
+.title_and_logo h5{
+	height:inherit;
+	font-size:18px;
+	color:blue;
+	float:left;
+}
+.nav_buttons{
+	height:100%;
+	width:50%;
+	float:left;
+}
+.nav_buttons div{
+	width:20%;
+	height:inherit;
+	float:left;
+}
+.nav_buttons button{
+	height:inherit;
+	width:100%;
+}
+
+.center_content{
+	height:80%;
+	width:100%;
+	background-color:#aaa;
+}
+.footer_content{
+	height:10%;
+	width:100%;
+	background-color:#999;
+}
